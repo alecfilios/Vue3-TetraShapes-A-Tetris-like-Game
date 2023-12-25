@@ -1,8 +1,8 @@
 This Vue.js project implements a simple shape dropper game where users can drag and drop various shapes into a game room. The game includes features such as gravity, shape rotation, and clearing the shapes from the game room.
 
 
+https://github.com/alecfilios/Vue3-TetraShapes-A-Tetris-like-Game/assets/43823795/285a6410-351c-4597-8e0a-9b267cb42c55
 
-https://github.com/alecfilios/Vue3-TetraShapes-A-Tetris-like-Game/assets/43823795/097bc3f9-75e8-46ed-b576-432d56deb87b
 
 
 
